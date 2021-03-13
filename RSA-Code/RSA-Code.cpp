@@ -2,5 +2,8 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+
+	//Two Prime Numbers
+	//int x = , y = ;
+
 }
